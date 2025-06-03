@@ -1,0 +1,2 @@
+google_gemini_api_key = "AIzaSyC4h6bij1_RThyWAzIawpz8csL8IqL5CmY"
+stability_api_key = "sk-9z2D08OimIkYhbjN1hDb9W6TVgufBzdknDUmWmDWnSI53cFA"
