@@ -1,4 +1,4 @@
-🎨 AI-Blog-Assistant
+🎨 **AI-Blog-Assistant**
 
 Welcome to AI-Blog-Assistant – your intelligent, creative companion for blogging!
 Unleash your writing potential and create visually stunning, SEO-friendly blog posts with the help of advanced AI models and a beautiful, modern interface.
@@ -7,29 +7,29 @@ Unleash your writing potential and create visually stunning, SEO-friendly blog p
 
 ✨ Features
 
-🧠 AI-Powered Writing
+🧠 **AI-Powered Writing**
 
 Generate high-quality, human-like blog content with Google Gemini’s advanced language model.
 
-🎨 Stunning AI Images
+🎨**** Stunning AI Images****
 
 Instantly create relevant, professional blog illustrations using Stable Diffusion (Stability AI).
 
-🌸 Pastel-Themed, Modern UI
+🌸 **Pastel-Themed, Modern UI**
 
 Enjoy a visually appealing, pastel-inspired design for a soothing and delightful user experience.
 
-⚙️ Easy Customization
+⚙️ **Easy Customization**
 
 Input your blog title, keywords, desired length, and number of images—let the assistant do the rest!
 
-🖼️ Interactive Image Carousel
+🖼️ **Interactive Image Carousel**
 
 Browse generated images in a smooth, modern carousel for inspiration and easy selection.
 
 ⸻
 
-🚀 How It Works
+🚀 **How It Works**
 	1.	Enter Your Blog Details
 	•	Title
 	•	Keywords
@@ -44,13 +44,10 @@ Browse generated images in a smooth, modern carousel for inspiration and easy se
 
 ⸻
 
-🌈 Screenshots
-
-Enjoy a soothing pastel color theme and a clean layout for a modern reading and writing experience.
 
 ⸻
 
-🛠️ Tech Stack
+🛠️** Tech Stack**
 	•	Frontend/UI: Streamlit (Python)
 	•	AI Text Generation: Google Gemini
 	•	AI Image Generation: Stability AI (Stable Diffusion)
