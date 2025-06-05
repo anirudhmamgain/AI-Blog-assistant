@@ -5,6 +5,8 @@ from apikey import google_gemini_api_key, stability_api_key  # Get new key from 
 from streamlit_carousel import carousel
 
 
+google_gemini_api_key = st.secrets["GOOGLE_GEMINI_API_KEY"]
+stability_api_key = st.secrets["STABILITY_API_KEY"]
 
 # Configure APIs
 genai.configure(api_key=google_gemini_api_key)
