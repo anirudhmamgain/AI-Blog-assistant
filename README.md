@@ -11,7 +11,7 @@ Unleash your writing potential and create visually stunning, SEO-friendly blog p
 
 Generate high-quality, human-like blog content with Google Gemini’s advanced language model.
 
-🎨**** Stunning AI Images****
+🎨 **Stunning AI Images**
 
 Instantly create relevant, professional blog illustrations using Stable Diffusion (Stability AI).
 
@@ -42,12 +42,9 @@ Browse generated images in a smooth, modern carousel for inspiration and easy se
 	4.	Preview and Download
 	•	Read your blog, view images in a carousel, and download everything for your publishing needs.
 
-⸻
 
 
-⸻
-
-🛠️** Tech Stack**
+🛠️ **Tech Stack**
 	•	Frontend/UI: Streamlit (Python)
 	•	AI Text Generation: Google Gemini
 	•	AI Image Generation: Stability AI (Stable Diffusion)
