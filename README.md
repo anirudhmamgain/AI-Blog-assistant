@@ -21,7 +21,7 @@ Enjoy a visually appealing, pastel-inspired design for a soothing and delightful
 
 ⚙️ **Easy Customization**
 
-Input your blog title, keywords, desired length, and number of images—let the assistant do the rest!
+Input your blog title, keywords, desired length, —let the assistant do the rest!
 
 🖼️ **Interactive Image Carousel**
 
